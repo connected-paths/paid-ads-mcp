@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.connected-paths/paid-ads",
+  "description": "Hosted MCP server for Google Ads and LinkedIn Ads analysis, reporting, diagnostics, and marketer workflows.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/connected-paths/paid-ads-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "url": "https://paidads-mcp.connectedpaths.com/mcp",
+      "type": "streamable-http"
+    }
+  ]
+}
