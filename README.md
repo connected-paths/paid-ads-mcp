@@ -47,7 +47,7 @@ More detail:
 
 ## Product website
 
-- Website: `https://paidads-mcp.connectedpaths.com`
+- Website: `https://connectedpaths.com/tools/paid-ads-mcp-server/`
 
 ## Support
 
