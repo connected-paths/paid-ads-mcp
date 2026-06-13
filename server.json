@@ -7,7 +7,7 @@
     "url": "https://github.com/connected-paths/paid-ads-mcp",
     "source": "github"
   },
-  "version": "1.0.0",
+  "version": "1.0.2",
   "remotes": [
     {
       "url": "https://paidads-mcp.connectedpaths.com/mcp",
